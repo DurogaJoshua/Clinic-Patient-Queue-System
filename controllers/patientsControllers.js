@@ -72,4 +72,5 @@ export const deletePatient = async (req, res) => {
   } catch (error) {
     return errorResponse(res, 500, "Failed to delete patient", error);
   }
+
 };
