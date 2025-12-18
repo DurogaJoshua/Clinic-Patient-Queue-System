@@ -1,7 +1,3 @@
-**Clinic Patient Queue System – Express.js Backend**
-
-The Clinic Patient Queue System is a RESTful API used to manage patients in a clinic queue using **Express.js**, **MVC architecture**, and a **MongoDB** database. This system helps register patients, manage their queue status (waiting, serving, completed), and update patient information efficiently.
-
 # Group 5 — “Clinic Patient Queue System”
 
 ## Members:
@@ -9,6 +5,10 @@ The Clinic Patient Queue System is a RESTful API used to manage patients in a cl
 - Duroga, Joshua Rota
 - Enriquez, Joshua Sevilla
 - Genoguin, Romulo Paragatos
+
+**Clinic Patient Queue System – Express.js Backend**
+
+The Clinic Patient Queue System is a RESTful API used to manage patients in a clinic queue using **Express.js**, **MVC architecture**, and a **MongoDB** database. This system helps register patients, manage their queue status (waiting, serving, completed), and update patient information efficiently.
 
 ---
 

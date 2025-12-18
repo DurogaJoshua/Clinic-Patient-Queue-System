@@ -18,4 +18,3 @@ app.use("/api/patients", patientRoutes);
 app.listen(PORT, () =>
   console.log(`Server running on port ${PORT}`)
 );
-
